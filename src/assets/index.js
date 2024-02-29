@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import link from "./link.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -20,15 +21,19 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import nextjs from './tech/nextjs.png';
+import mysql from './tech/mysql.png';
+import postgresql from './tech/postgresql.png';
+import bootstrap from './tech/bootstrap.jpeg'
+import native from './tech/native.png'
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import manaknightdigitals from './company/manaknight_logo.jpeg'
+import devsinc from './company/devsinc.png'
+import softaims from './company/softaims.jpeg'
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import permission from "./permission.png";
+import aggero from "./aggero.png";
+import biomark from "./biomark.png";
 
 export {
   logo,
@@ -51,12 +56,18 @@ export {
   redux,
   tailwind,
   typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  threejs,  
+  
+  nextjs,
+  bootstrap,
+  postgresql,
+  mysql,
+  native,
+  manaknightdigitals,
+  devsinc,
+  softaims,
+  link,
+  aggero,
+  permission,
+  biomark
 };
