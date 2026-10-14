@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        A Software Engineer with 2+ years of experience in web and mobile application development, excelling in technologies such as React Js, Next Js, React Native, and Node Js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. I am a proven leader known for my outstanding interpersonal and motivational skills, demonstrating a knack for swiftly mastering new skills, technologies, or roles.
+        Results-driven Full-Stack Software Engineer with 5+ years of experience designing and delivering scalable web and mobile applications across e-commerce, fintech, healthtech, and blockchain. Expert in React.js, Next.js, React Native, Node.js, Ruby on Rails, and AWS. I consistently deliver measurable impact — from cutting bug reports by 30% to boosting client satisfaction by 35% — and am comfortable owning features end-to-end, from database schema to responsive UI, while leading agile teams on products serving millions of users.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

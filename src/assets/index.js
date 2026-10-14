@@ -34,6 +34,10 @@ import softaims from './company/softaims.jpeg'
 import permission from "./permission.png";
 import aggero from "./aggero.png";
 import biomark from "./biomark.png";
+import kalpa from "./kalpa.png";
+import becominghq from "./becominghq.png";
+import continuity from "./continuity.png";
+import favor from "./favor.png";
 
 export {
   logo,
@@ -69,5 +73,9 @@ export {
   link,
   aggero,
   permission,
-  biomark
+  biomark,
+  kalpa,
+  becominghq,
+  continuity,
+  favor
 };
