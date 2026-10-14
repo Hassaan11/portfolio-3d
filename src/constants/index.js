@@ -14,7 +14,7 @@ import {
   mongodb,
   git,
   figma,
-  docker,  
+  docker,
   permission,
   aggero,
   biomark,
@@ -41,6 +41,10 @@ export const navLinks = [
   {
     id: "work",
     title: "Work",
+  },
+  {
+    id: "projects",
+    title: "Projects",
   },
   {
     id: "contact",
