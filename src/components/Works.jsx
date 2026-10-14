@@ -81,7 +81,6 @@ const Works = () => {
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
           A selection of products I've helped build across video outreach, Web3 advertising, M&A deal management, location-based services, AI coaching, and healthtech. Each project highlights end-to-end ownership — from APIs and data models to responsive UI — and real-world impact for users and businesses.
-
         </motion.p>
       </div>
 
